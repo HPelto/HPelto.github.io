@@ -293,3 +293,8 @@ hr {
 	color: lightseagreen;
 	margin: 30px;
 }
+
+.footertext p{
+	margin-top: 500px;
+	text-align: center;
+}
