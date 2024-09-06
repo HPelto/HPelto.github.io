@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://i.imgur.com/eOJdVfX.png");
+  background-color: #191919;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+	font-family: "Signika", sans-serif;
+}
+
+.sign-up-form {
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #ff2f00;
+  width: 400px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: #191919;
+  padding: 30px;
+  margin: 8% auto 0;
+  text-align: center;
+}
+
+input {
+	border: 1px solid;
+	border-color: #ABABAB;
+	background-color: transparent;
+	border-radius: 6px;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right 5px;
+}
+
+input[type='email'] {
+	font-family: "Signika", sans-serif;
+	font-size: 20px;
+	text-align: center;
+	line-height: 20px;
+	height: 20px;
+	line-width: 345px;
+	width: 345px;
+}
+
+
+.sign-up-form-logo > img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: auto;
+	margin-bottom: 15px;
+}
+
+.go-to-login {
+	margin-bottom: 20px;
+	
+}
+
+#su-email-text {
+	color: #ADADAD;
+	font-weight: 100;
+}
+
+#sign-in-text {
+	color: white;
+	margin-right: 10px;
+	letter-spacing: 1.5px;
+}
+
+#sign-in {
+	color: #ff2f00;
+	letter-spacing: 1.5px;
+}
+
+.signup {
+	margin-top: 25px;
+}
+
+.btn {
+	margin-top: 10px;
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  font-size: 14px;
+  background-image: linear-gradient(to right, orange, red);
+  padding: 10px 116px 10px 116px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background-image: linear-gradient(to right, #942601, #750404);
+  text-decoration: none;
+}
+
+.ortxt > p {
+	font-size: 12;
+	margin-top: -5px;
+	color: #ADADAD;
+	font-weight: 100;
+}
+
+.div-signinalts > img{
+	width: 350px;
+	height: auto;
+}
+
+.termsandconditions {
+	font-size: 10px;
+	margin-top: 15px;
+}
+
+#terms {
+	color: #ff2f00;
+}
+
+#terms-text {
+	color: #ADADAD;
+}
+
+.privacy-policy {
+	color: #ff2f00;
+	font-size: 10px;
+}
