@@ -8,7 +8,7 @@ body {
 .nav-wrapper {
   display: flex;
   justify-content: space-between;
-  padding-top: 38px;
+  padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 38px;
   padding-right: 38px;
