@@ -20,8 +20,8 @@ body {
 }
 
 .left-side {
-  margin-bottom: 5px;
-}
+  /* margin-bottom: 5px; */
+} 
 
 .right-side {
   margin-top: 12px;
