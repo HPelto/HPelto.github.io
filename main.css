@@ -12,7 +12,7 @@ body {
   padding-bottom: 10px;
   padding-left: 38px;
   padding-right: 38px;
-  background-color: gray;
+  background-color: #3F3F3F;
 }
 
 .middle {
@@ -51,7 +51,7 @@ body {
 }
 
 .nav-link-wrapper a {
-  color: #8a8a8a;
+  color: white;
   text-decoration: none;
   transition: color 0.5s;
 }
