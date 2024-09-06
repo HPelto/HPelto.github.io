@@ -37,7 +37,7 @@ body {
   margin-top: -13px;
 }
 
-.nav-wrapper > .left-side > div {
+.nav-wrapper > .middle > div {
   margin-right: 20px;
   font-size: 1.3em;
 }
@@ -60,7 +60,7 @@ body {
 }
 */
 .nav-link-wrapper a:hover {
-  color: #ff2f00;
+  color: #ff78b3;
 }
 
 .brand img {
